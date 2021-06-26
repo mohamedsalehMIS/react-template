@@ -1,0 +1,108 @@
+{
+    "works" : [
+        {
+            "id"        : 1,
+            "icon_name" : "fa fa-briefcase fa-2x",
+            "title"     : "web development" ,
+            "body"      : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id"        : 2,
+            "icon_name" : "fa fa-sitemap fa-2x",
+            "title"     : "mobile UX" ,
+            "body"      : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id"        : 3,
+            "icon_name" : "fa fa-code fa-2x",
+            "title"     : "mobile UI" ,
+            "body"      : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id"    : 1,
+            "image" : "/images/portfolio-img1.jpg"
+        },
+        {
+            "id"    : 2,
+            "image" : "/images/portfolio-img2.jpg"
+        },
+        {
+            "id"    : 3,
+            "image" : "/images/portfolio-img3.jpg"
+        },
+        {
+            "id"    : 4,
+            "image" : "/images/portfolio-img4.jpg"
+        },
+        {
+            "id"    : 5,
+            "image" : "/images/portfolio-img5.jpg"
+        },
+        {
+            "id"    : 6,
+            "image" : "/images/portfolio-img6.jpg"
+        },
+        {
+            "id"    : 7,
+            "image" : "/images/portfolio-img7.jpg"
+        },
+        {
+            "id"    : 8,
+            "image" : "/images/portfolio-img8.jpg"
+        },
+        {
+            "id"    : 9,
+            "image" : "/images/portfolio-img8.jpg"
+        }
+    ],
+
+    "social" : [
+        {
+            "id"    : 1,
+            "icon"  : "icon fa fa-facebook fa-2x",
+            "title" : "Tweet me on",
+            "body"  : "Social facebook"
+        },
+        {
+            "id"    : 2,
+            "icon"  : "icon fa fa-twitter fa-2x",
+            "title" : "Tweet me on",
+            "body"  : "Social twitter"
+        },
+        {
+            "id"    : 3,
+            "icon"  : "icon fa fa-instagram fa-2x",
+            "title" : "Tweet me on",
+            "body"  : "Social pinterest"
+        }
+    ],
+
+    "profile" : [
+        {
+            "id"        :  1,
+            "name"      : "Mohamed Saleh",
+            "birthday"  : "19/05/1996",
+            "address"   : "cairo",
+            "phone"     : "01112223330",
+            "email"     : "mohamedsaleh0278@gmail.com",
+            "website"   : "www.mohamedsaleh.com"
+        }
+    ],
+
+    "skills" : [
+        {
+            "id"            : 1,
+            "html"          : "Html",
+            "css"           : "Css3",
+            "javascript"    : "Javacript",
+            "bootstrap"     : "Bootstrap",
+            "perc1"          : "98%",
+            "perc2"          : "95%",
+            "perc3"          : "80%",
+            "perc4"          : "90%"
+        }
+    ]
+}
